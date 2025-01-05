@@ -34,9 +34,5 @@
 - **Looking for Opportunities:** Interested in internships and collaborative projects related to embedded systems and software development.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheLonelyOtaku315&theme=prussian&show_icons=true&hide_border=false&count_private=true" />
-  <small> <br> </small>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheLonelyOtaku315&theme=prussian&hide_border=false" />
-  <small> <br> </small>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLonelyOtaku315&theme=prussian&show_icons=true&hide_border=false&layout=compact" />
 </div>
