@@ -26,3 +26,15 @@
 - **GitHub:** [github.com/TheLonelyOtaku315](https://github.com/TheLonelyOtaku315)  
 - **LinkedIn:** [linkedin.com/in/tonny-zhao/](https://linkedin.com/in/tonny-zhao/)  
 
+---
+
+## 🌱 State
+- **Current Learning Focus:** FPGA design and machine learning  
+- **Current Projects:** Developing a Bluetooth-based ESP32 controller  
+- **Looking for Opportunities:** Interested in internships and collaborative projects related to embedded systems and software development.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheLonelyOtaku315&theme=prussian&show_icons=true&hide_border=false&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheLonelyOtaku315&theme=prussian&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLonelyOtaku315&theme=prussian&show_icons=true&hide_border=false&layout=compact" />
+</div>
