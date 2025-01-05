@@ -26,4 +26,3 @@
 - **GitHub:** [github.com/TheLonelyOtaku315](https://github.com/TheLonelyOtaku315)  
 - **LinkedIn:** [linkedin.com/in/tonny-zhao/](https://linkedin.com/in/tonny-zhao/)  
 
-![LonelyOatku's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
