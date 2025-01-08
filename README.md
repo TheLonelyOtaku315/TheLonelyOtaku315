@@ -11,7 +11,6 @@
 ## 🛠️ Skills
 - **Languages:** C#, C++, Python, Java, JavaScript, VHDL  
 - **Tools:** Git, Visual Studio, LTSpice, Octave  
-- **Frameworks:** Agile, Scrum  
 
 ---
 
