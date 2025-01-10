@@ -1,24 +1,34 @@
 # Hi, I'm Tonny Zhao 👋
 
-🎓 **Computer Engineering Student** at Concordia University  
+🎓 **Computer Engineering Co-op Student** at Concordia University (Expected 2027)  
 💻 Passionate about programming, hardware design, and creating interactive software solutions.  
-🌱 Currently learning more about FPGA design and machine learning.  
+🌱 Currently learning more about FPGA design, VHDL, and machine learning.  
 📫 Reach me at: [zhaotonny315@gmail.com](mailto:zhaotonny315@gmail.com)  
-💼 Looking for Opportunities: Interested in internships and collaborative projects related to embedded systems and software development.
+💼 Actively seeking internships and collaborative opportunities in embedded systems, software development, and cybersecurity.
 
 ---
 
 ## 🛠️ Skills
-- **Languages:** C#, C++, Python, Java, JavaScript, VHDL  
-- **Tools:** Git, Visual Studio, LTSpice, Octave  
+- **Programming Languages:** C++, C#, Python, Java, JavaScript, VHDL, CSS  
+- **Development Tools:** Visual Studio, Git, LTSpice, Octave  
+- **Platforms and Frameworks:** Java platforms, Agile and Scrum methodologies  
+- **Operating Systems:** Windows, Linux  
+- **Soft Skills:** Project management, team collaboration, Six Sigma, DMAIC  
 
 ---
 
 ## 🌟 Featured Projects
-- [Bluetooth LED Controller](https://github.com/TheLonelyOtaku315/ESP32-LED-Controller/tree/main)  
-  Developed an ESP32-based controller for LEDs via Bluetooth and USB communication.  
-- [Interactive Circuit Simulator](https://github.com/)  
-  Created a drag-and-drop logic circuit simulator using Java and JavaFX.  
+- **[Bluetooth LED Controller](https://github.com/TheLonelyOtaku315/ESP32-LED-Controller/tree/main)**  
+  Designed an ESP32-based controller for managing LED states and modes via USB and Bluetooth communication.
+  
+- **Interactive Circuit Simulator**  
+  Developed a drag-and-drop logic circuit simulator in JavaFX to visualize real-time circuit behavior.
+  
+- **[Temperature Interactive Converter](https://github.com/TheLonelyOtaku315/TemperatureConverterVS)**  
+  Built a graphical application to convert temperatures, focusing on usability and design.
+
+- **Data Structures & Algorithms Final Project**  
+  Collaborated on a Java-based k-nearest neighbor (k-NN) machine learning model to diagnose a dataset of 569 instances, optimizing accuracy and efficiency.
 
 ---
 
