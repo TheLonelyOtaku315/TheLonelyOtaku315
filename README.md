@@ -9,7 +9,7 @@
 ---
 
 ## 🛠️ Skills
-- **Programming Languages:** C++, C#, Python, Java, JavaScript, VHDL, CSS  
+- **Programming Languages:** HTML, CSS, C++, C#, Python, Java, JavaScript, VHDL, CSS  
 - **Development Tools:** Visual Studio, Git, LTSpice, Octave  
 - **Platforms and Frameworks:** Java platforms, Agile and Scrum methodologies  
 - **Operating Systems:** Windows, Linux  
